@@ -1,0 +1,15 @@
+[submodule "src/github.com/shirou/gopsutil"]
+	path = src/github.com/shirou/gopsutil
+	url = git@github.com:shirou/gopsutil.git
+[submodule "src/github.com/stretchr/testify"]
+	path = src/github.com/stretchr/testify
+	url = git@github.com:stretchr/testify.git
+[submodule "src/github.com/davecgh/go-spew"]
+	path = src/github.com/davecgh/go-spew
+	url = git@github.com:davecgh/go-spew.git
+[submodule "src/github.com/pmezard/go-difflib"]
+	path = src/github.com/pmezard/go-difflib
+	url = git@github.com:pmezard/go-difflib.git
+[submodule "src/gopkg.in/yaml.v3"]
+	path = src/gopkg.in/yaml.v3
+	url = git@github.com:go-yaml/yaml.git

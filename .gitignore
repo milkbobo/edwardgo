@@ -1,0 +1,6 @@
+pkg/*
+bin/*
+src/*
+!pkg/.gitignore
+!bin/.gitignore
+.DS_Store
